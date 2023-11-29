@@ -1,5 +1,10 @@
 # Business-Analysis-using-Spreadsheet-Basics-1
 This is my worksheet from the [Introduction to Business Analysis using Spreadsheet: Basic](https://www.coursera.org/projects/business-analysis-using-spreadsheets) course.
+Through this course, I have learned:
+- Apply math operations such as + (addition), – (subtraction), * (multiplication), and / (division)
+- Apply how to clean the data as deleting the duplicates, split the column into two columns, filter and sorting data
+- Apply logical and aggregation functions such as IF, AND, OR, SUM, AVERAGE, MIN, MAX, COUNT, SUMIF and COUNTIF
+- Build data visualization data using: Bar and Line or column charts  
 
 My worksheet can be accessed by clicking this [Exercise 1](https://docs.google.com/spreadsheets/d/1BmC_0BRDZmipxvB5hn9vfqffn4FTiWT8Y7DdCyCOqAw/edit?usp=sharing).
 The following is an explanation of each sheet in the worksheet:
@@ -10,10 +15,6 @@ The following is an explanation of each sheet in the worksheet:
    
 ## <!-- Horizontal Line --> ## 
 In this sheet we are showed the Google sheet looks. We have dataset in range `A1:J318`. 
-We can use function and formula on spreadsheet to analyze data. 
-
-For instance, we have `SUM` function to get total value of `Column I` in cell `K2`.
-In cell `K3` we have `AVERAGE` function to get average value of `Column I` as well.
 
 ![image for t1-01](images/T1-01.PNG)
 </details>
