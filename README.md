@@ -1,6 +1,6 @@
 # Business-Analysis-using-Spreadsheet-Basics-1
 This is my worksheet from the [Introduction to Business Analysis using Spreadsheet: Basic](https://www.coursera.org/projects/business-analysis-using-spreadsheets) course.
-Through this course, I have learned:
+In this course, I have done the following things:
 - Apply math operations such as + (addition), – (subtraction), * (multiplication), and / (division)
 - Apply how to clean the data as deleting the duplicates, split the column into two columns, filter and sorting data
 - Apply logical and aggregation functions such as IF, AND, OR, SUM, AVERAGE, MIN, MAX, COUNT, SUMIF and COUNTIF
